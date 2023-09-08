@@ -37,7 +37,7 @@ public class GamePanel extends JPanel implements ActionListener
     JButton mainMenuButton;
     Clip eatingClip,bonkClip,moveClip,teleportClip;
     GameFrame gameFrame;
-    //MyKeyAdapter myKeyAdapter;
+    //MyKeyAdapter myKeyAdapter; // hehe
     //boolean startGameAndNeglectBugFixer=true,is180DegBugHappening=false;
     GamePanel(){}
     GamePanel (GameFrame gameFrame,Color[] snakeColorArray,Boolean isFancySnakeOn,Boolean isBorderButtonOn,GameMenu gameMenu)
